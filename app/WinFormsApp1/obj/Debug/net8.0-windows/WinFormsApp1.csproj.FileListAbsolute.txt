@@ -1,0 +1,32 @@
+C:\Users\Cesar\source\repos\app\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Cesar\source\repos\app\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Cesar\source\repos\app\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Cesar\source\repos\app\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Cesar\source\repos\app\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Cesar\source\repos\app\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cesar\source\repos\app\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cesar\source\repos\app\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Cesar\source\repos\app\WinFormsApp1\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Cesar\source\repos\app\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\Abdiel Puente\OneDrive - COTAXOMIL\Escritorio\AppC#\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Abdiel Puente\OneDrive - COTAXOMIL\Escritorio\AppC#\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Abdiel Puente\OneDrive - COTAXOMIL\Escritorio\AppC#\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Abdiel Puente\OneDrive - COTAXOMIL\Escritorio\AppC#\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdiel Puente\OneDrive - COTAXOMIL\Escritorio\AppC#\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Abdiel Puente\OneDrive - COTAXOMIL\Escritorio\AppC#\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Abdiel Puente\OneDrive - COTAXOMIL\Escritorio\AppC#\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Abdiel Puente\OneDrive - COTAXOMIL\Escritorio\AppC#\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Abdiel Puente\OneDrive - COTAXOMIL\Escritorio\AppC#\app\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Abdiel Puente\OneDrive - COTAXOMIL\Escritorio\AppC#\app\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
